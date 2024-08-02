@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: oolralra/fast:18
+        image: oolralra/fast:20
